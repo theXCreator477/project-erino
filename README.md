@@ -101,7 +101,7 @@ Navigate to the Server folder and run:
 
 ```bash
 cd ..
-npm run start
+node app.js
 ```
 
 ### Start the Client:
