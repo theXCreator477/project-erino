@@ -1,28 +1,6 @@
-Sure! Below is the complete README.md content that you can directly copy and paste into your project.
-
-markdown
-Insert Code
-Edit
-Copy code
 # Project Erino
 
-Welcome to Project Erino! This is a Vite React project that allows you to build modern web applications with ease. This project has been assigned to me by a company to test my skills.
-
-## Table of Contents
-
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Running the Project](#running-the-project)
-- [Environment Variables](#environment-variables)
-- [Database Initialization](#database-initialization)
-- [License](#license)
-
-## Features
-
-- Fast and modern development environment using Vite
-- React for building user interfaces
-- Easy to set up and run
+Welcome to Project Erino!
 
 ## Prerequisites
 
