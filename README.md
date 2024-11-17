@@ -85,7 +85,12 @@ Run the initialization script:
 node init.js
 ```
 This will set up the database with the necessary sample data.
-
+If this script flashes, your database is initialized successfullly
+```bash
+MongoDB connected
+Database cleared.
+Database initialized with sample data
+```
 
 ## Running the Project
 To start the development server, follow these steps:
