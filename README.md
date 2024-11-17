@@ -12,7 +12,7 @@ Before you begin, ensure you have the following installed on your machine:
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 
 ```bash
 git clone https://github.com/theXCreator477/project-erino.git
@@ -38,10 +38,10 @@ cd ../Client
 npm install
 ```
 
-Environment Variables
+## Environment Variables
 You need to create two .env files for the server and client configurations.
 
-Server Environment Variables
+### Server Environment Variables
 Navigate to the Server folder and Create a .env file in the Server folder and add the following content:
 
 ```bash
@@ -56,7 +56,7 @@ PORT=8080
 MONGO_URI=mongodb://127.0.0.1/Project_Erino
 ```
 
-Client Environment Variables
+### Client Environment Variables
 Navigate to the Client folder and Create a .env file in the Client folder and add the following content:
 
 ```bash
@@ -70,7 +70,7 @@ Copy and paste it in your ENV file:
 REACT_SERVER_URL=http://localhost:8080
 ```
 
-Database Initialization
+## Database Initialization
 To initialize the database with sample data, follow these steps:
 
 Navigate to the INIT folder inside the Server folder:
@@ -87,10 +87,10 @@ node init.js
 This will set up the database with the necessary sample data.
 
 
-Running the Project
+## Running the Project
 To start the development server, follow these steps:
 
-Start the Server:
+### Start the Server:
 
 Navigate to the Server folder and run:
 
@@ -99,7 +99,7 @@ cd ../Server
 npm run start
 ```
 
-Start the Client:
+### Start the Client:
 
 In a new terminal window, navigate to the Client folder and run:
 
