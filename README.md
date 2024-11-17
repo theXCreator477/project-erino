@@ -109,7 +109,6 @@ node app.js
 In a new terminal window, navigate to the Client folder and run:
 
 ```bash
-cd ../Client
 npm run dev
 ```
 
