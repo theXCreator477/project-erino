@@ -100,7 +100,7 @@ To start the development server, follow these steps:
 Navigate to the Server folder and run:
 
 ```bash
-cd ../Server
+cd ..
 npm run start
 ```
 
